@@ -17,7 +17,7 @@ Vivado 2016.3
 
 
 # Execution of the code
--	Run the ROM_Data_gen_music_repo.m. It will generate the RAM data for .slx program
+-	Run the ROM_Data_gen_music_repo.m. It will generate the ROM data for .slx program
 -	Open MUSIC_repo_DA_I.slx / MUSIC_repo_DA_II.slx
 -	Run the program 
 -	Plot the Final_Angle_DA_I / Final_Angle_DA_II.
