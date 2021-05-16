@@ -1,7 +1,7 @@
 # DoA Estimation using optimized MUSIC Algorithm
 This repository includes the code in Xilinx System Generator / Vivado 2016.3 as used for the paper:
 
-Uzma M. Butt, Shoab A. Khan, Anees Ullah, Abdul Khaliq, Pedro Reviriego, Ali Zahir "Towards Low Latency and Resource-Efficient FPGAImplementations of the MUSIC Algorithm forDirection of Arrival Estimation", under submission to IEEE Transactions on Circuit and Systems I.
+Uzma M. Butt, Shoab A. Khan, Anees Ullah, Abdul Khaliq, Pedro Reviriego, Ali Zahir "Towards Low Latency and Resource-Efficient FPGAImplementations of the MUSIC Algorithm forDirection of Arrival Estimation", under revision to IEEE Transactions on Circuit and Systems I.
 
 # Dependencies
 Matlab 2016
